@@ -1,4 +1,4 @@
-module github.com/lextoumbourou/idle
+module github.com/ka2n/go-idle
 
 go 1.19
 

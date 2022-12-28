@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/lextoumbourou/idle"
+	"github.com/ka2n/go-idle"
 	"log"
 	"time"
 )
